@@ -14,7 +14,7 @@ import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @CrossOrigin(origins = "*")//NOSONAR
-@RequestMapping("poc/monitoramento/produto/v1")
+@RequestMapping("poc/spring-cloud/v1")
 @RestController
 @AllArgsConstructor
 public class ProdutoController {
