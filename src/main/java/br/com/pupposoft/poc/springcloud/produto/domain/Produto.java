@@ -1,4 +1,4 @@
-package br.com.pupposoft.poc.springcloud.gateway.produto.domain;
+package br.com.pupposoft.poc.springcloud.produto.domain;
 
 import java.math.BigDecimal;
 

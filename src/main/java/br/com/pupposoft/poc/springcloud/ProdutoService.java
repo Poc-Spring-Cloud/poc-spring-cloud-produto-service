@@ -1,4 +1,4 @@
-package br.com.pupposoft.poc.springcloud.gateway;
+package br.com.pupposoft.poc.springcloud;
 
 import java.util.Locale;
 

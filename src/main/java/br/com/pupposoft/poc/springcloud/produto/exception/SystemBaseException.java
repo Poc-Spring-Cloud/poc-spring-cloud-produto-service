@@ -1,4 +1,4 @@
-package br.com.pupposoft.poc.springcloud.gateway.produto.exception;
+package br.com.pupposoft.poc.springcloud.produto.exception;
 
 public abstract class SystemBaseException extends RuntimeException {
 	private static final long serialVersionUID = 443911183945646720L;

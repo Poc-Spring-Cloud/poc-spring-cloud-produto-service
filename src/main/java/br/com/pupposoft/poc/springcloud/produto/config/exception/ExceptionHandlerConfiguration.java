@@ -1,4 +1,4 @@
-package br.com.pupposoft.poc.springcloud.gateway.produto.config.exception;
+package br.com.pupposoft.poc.springcloud.produto.config.exception;
 
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;
@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
-import br.com.pupposoft.poc.springcloud.gateway.produto.exception.SystemBaseException;
+import br.com.pupposoft.poc.springcloud.produto.exception.SystemBaseException;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.extern.slf4j.Slf4j;
 

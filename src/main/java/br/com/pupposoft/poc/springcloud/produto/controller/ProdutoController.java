@@ -1,4 +1,4 @@
-package br.com.pupposoft.poc.springcloud.gateway.produto.controller;
+package br.com.pupposoft.poc.springcloud.produto.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.pupposoft.poc.springcloud.gateway.produto.controller.json.ProdutoJson;
-import br.com.pupposoft.poc.springcloud.gateway.produto.domain.Produto;
-import br.com.pupposoft.poc.springcloud.gateway.produto.usecase.ObterProdutoUsecase;
+import br.com.pupposoft.poc.springcloud.produto.controller.json.ProdutoJson;
+import br.com.pupposoft.poc.springcloud.produto.domain.Produto;
+import br.com.pupposoft.poc.springcloud.produto.usecase.ObterProdutoUsecase;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 

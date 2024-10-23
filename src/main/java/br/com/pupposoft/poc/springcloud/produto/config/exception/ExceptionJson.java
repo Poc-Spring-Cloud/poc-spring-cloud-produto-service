@@ -1,6 +1,6 @@
-package br.com.pupposoft.poc.springcloud.gateway.produto.config.exception;
+package br.com.pupposoft.poc.springcloud.produto.config.exception;
 
-import br.com.pupposoft.poc.springcloud.gateway.produto.exception.SystemBaseException;
+import br.com.pupposoft.poc.springcloud.produto.exception.SystemBaseException;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

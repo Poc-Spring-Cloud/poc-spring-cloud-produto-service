@@ -1,4 +1,4 @@
-package br.com.pupposoft.poc.springcloud.gateway.produto.exception;
+package br.com.pupposoft.poc.springcloud.produto.exception;
 
 import lombok.Getter;
 

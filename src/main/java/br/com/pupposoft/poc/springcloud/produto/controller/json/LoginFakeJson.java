@@ -1,4 +1,4 @@
-package br.com.pupposoft.poc.springcloud.gateway.produto.controller.json;
+package br.com.pupposoft.poc.springcloud.produto.controller.json;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

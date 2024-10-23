@@ -1,4 +1,4 @@
-package br.com.pupposoft.poc.springcloud.gateway.produto.gateway.database.entity;
+package br.com.pupposoft.poc.springcloud.produto.gateway.database.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

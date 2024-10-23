@@ -1,6 +1,6 @@
-package br.com.pupposoft.poc.springcloud.gateway.produto.controller.json;
+package br.com.pupposoft.poc.springcloud.produto.controller.json;
 
-import br.com.pupposoft.poc.springcloud.gateway.produto.domain.Produto;
+import br.com.pupposoft.poc.springcloud.produto.domain.Produto;
 import lombok.Getter;
 import lombok.ToString;
 

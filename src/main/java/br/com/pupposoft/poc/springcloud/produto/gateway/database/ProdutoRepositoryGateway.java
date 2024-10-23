@@ -1,14 +1,14 @@
-package br.com.pupposoft.poc.springcloud.gateway.produto.gateway.database;
+package br.com.pupposoft.poc.springcloud.produto.gateway.database;
 
 import java.math.BigDecimal;
 import java.util.Optional;
 
 import org.springframework.stereotype.Repository;
 
-import br.com.pupposoft.poc.springcloud.gateway.produto.domain.Produto;
-import br.com.pupposoft.poc.springcloud.gateway.produto.exception.AcessoRepositorioDadosException;
-import br.com.pupposoft.poc.springcloud.gateway.produto.gateway.ProdutoGateway;
-import br.com.pupposoft.poc.springcloud.gateway.produto.gateway.database.repository.ProdutoRepository;
+import br.com.pupposoft.poc.springcloud.produto.domain.Produto;
+import br.com.pupposoft.poc.springcloud.produto.exception.AcessoRepositorioDadosException;
+import br.com.pupposoft.poc.springcloud.produto.gateway.ProdutoGateway;
+import br.com.pupposoft.poc.springcloud.produto.gateway.database.repository.ProdutoRepository;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
